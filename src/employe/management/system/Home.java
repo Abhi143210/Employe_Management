@@ -1,5 +1,5 @@
 
-package employe.management.syatem;
+package employe.management.system;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

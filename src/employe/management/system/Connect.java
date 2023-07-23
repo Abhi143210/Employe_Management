@@ -1,4 +1,4 @@
-package employe.management.syatem;
+package employe.management.system;
 
 import java.sql.*;
 
